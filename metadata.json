@@ -1,0 +1,9 @@
+{
+  "name": "AI Biometric Voter Verification for Peru",
+  "description": "Secure biometric identity verification system for voter authentication featuring facial, fingerprint, and voice recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
